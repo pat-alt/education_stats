@@ -1,0 +1,12 @@
+name: education_in_numbers
+title: education_in_numbers
+username:
+account: patalt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1162626
+bundleId: 2402078
+url: https://patalt.shinyapps.io/education_in_numbers/
+when: 1568100080.091
+asMultiple: FALSE
+asStatic: FALSE
